@@ -1,0 +1,32 @@
+{
+  "name": "@eportela/clitools",
+  "version": "0.0.0",
+  "description": "A cli tools library",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezeportela/clitools.git"
+  },
+  "keywords": [
+    "api",
+    "powerful",
+    "tools",
+    "library"
+  ],
+  "author": "Ezequiel Portela <eportelab@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ezeportela/clitools/issues"
+  },
+  "homepage": "https://github.com/ezeportela/clitools#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "6.6.0",
+    "eslint-config-google": "0.14.0",
+    "jest": "24.9.0"
+  }
+}
